@@ -1,4 +1,4 @@
-# Statistical-Learning
+# Statistical-Learning (ISLR Book)
 
 This folder contains detailed code implementation from excercises in An Introduction to Statistical Learning (http://www-bcf.usc.edu/~gareth/ISL/) 
 

@@ -7,4 +7,5 @@ This includes R labs with detailed explanations on how to implement the various 
 Copyright- owned by the authors of the book
 
 Read my other articles- https://bit.ly/souravLI
+
 Connect with me- https://about.me/sourav.nandi
